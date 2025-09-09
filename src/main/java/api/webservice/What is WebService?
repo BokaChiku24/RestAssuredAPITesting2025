@@ -1,0 +1,9 @@
+What is a Webservice?
+Why do we need Webservice and what is an API i.e. Rest or SOAP API?
+
+• Webservices are services spread over the web.
+• Enables the communication between applications over the web and provides a standard protocol or format
+  for communication
+• Using webservices two different applications designed in different languages can talk to each other share
+  information and exchange data
+• Platform Independent
